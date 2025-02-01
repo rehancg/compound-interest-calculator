@@ -38,5 +38,3 @@ A web-based compound interest calculator that helps users calculate and compare 
    - Investment period
    - Additional investment amounts
 3. Click Calculate to see results
-
-### Example Calculation 
